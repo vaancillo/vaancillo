@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jared 🦁</h1>
 <h3 align="center">A frontend developer from México</h3>
 
-- 📝 I’m currently Studying in HighSchool.
+- 📝 I’m Studying in HighSchool.
 
 - 🤓 I’m currently learning **Dev.F, React**
 
-- 👻 Ask me about **React**
+- 🐱‍🚀 To iterate is human, to recurse divine.
 
 - 📫 How to reach me **yaredbane@gmail.com**
 
