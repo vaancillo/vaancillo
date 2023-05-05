@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jared</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
-- 🔭 I’m currently working on [Notes App](https://github.com/ClexyT/Notes-App)
+- 🔭 I’m currently Studying 
 
 - 🌱 I’m currently learning **Dev.F, React**
 
