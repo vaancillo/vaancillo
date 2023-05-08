@@ -10,6 +10,7 @@
 
 - 📫 How to reach me **yaredbane@gmail.com**
 
+<h2 align="center" href="https://user-images.githubusercontent.com/66924428/202072969-bc6b750d-1ecd-4e71-b0cc-96139f1716b3.gif"></h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jared-p-9aba09271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jared-p-9aba09271/" height="30" width="40" /></a>
