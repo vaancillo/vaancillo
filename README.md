@@ -6,7 +6,7 @@
 
 - 🤓 I’m currently learning **Dev.F, React**
 
-- 🐱‍🚀 To iterate is human, to recurse divine.
+- 🐱‍🚀 I'm a Computer Science student.
 
 - 📫 How to reach me **yaredbane@gmail.com**
 <h3 align="left">Connect with me:</h3>
