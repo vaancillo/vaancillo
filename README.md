@@ -28,8 +28,6 @@
 <img src="https://user-images.githubusercontent.com/66924428/202087080-3137a85f-cdc9-4c6b-9bd1-c20be251c437.png" width="120">
 <br/>
 <br/>
-
-
 <p>
 <img src="https://user-images.githubusercontent.com/66924428/202087303-8785475f-2078-4e4f-9640-8b2d1e9a5652.gif" width="120">
 </a>
