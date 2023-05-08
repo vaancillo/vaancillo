@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jared 🐱‍👓🐱‍🐉</h1>
 <h3 align="center">A frontend developer from México</h3>
-<h4 align="center">Discord: vaancito ♱#6581</h4>
+<h6 align="center">Discord: vaancito ♱#6581</h6>
 
 - 📝 I’m Studying in HighSchool.
 
