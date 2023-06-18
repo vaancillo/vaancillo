@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jared👨🏻‍💻</h1>
+<h1 align="center">I'm Jared🏻‍💻</h1>
 <h3 align="center">A frontend developer from México</h3>
 <h6 align="center">Discord: vaancito ♱#6581</h6>
 
