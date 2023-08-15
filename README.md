@@ -5,7 +5,7 @@
 
 - 📝 I’m Studying in HighSchool.
 
-- 🤓 I’m currently learning **Dev.F, React**
+- 🤓 I’m currently learning **React, NextJS, Typescript**
 
 - 🐱‍🚀 I'm a Computer Science student.
 
