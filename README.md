@@ -3,12 +3,6 @@
 
 - I like programming 👍
 
-- 📝 I’m Studying in HighSchool.
-
-- 🤓 I’m currently learning **React, NextJS, Typescript**
-
-- 🐱‍🚀 I'm a Computer Science student.
-
 - 📫 How to reach me **yaredbane@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
